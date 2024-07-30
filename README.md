@@ -1,2 +1,2 @@
 # DinoDev-Test-Repo
-Repo to test DinoDev
+This repo is only there to test web hooks
